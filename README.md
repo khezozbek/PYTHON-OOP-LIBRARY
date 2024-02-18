@@ -58,7 +58,7 @@ To use the library management system:
     library.display_catalog()
     ```
 
-## Additional Information.
+## Additional Information
 
 - Each book has a unique ID assigned to it.
 - Members can borrow books if they are available and return them when they're done.
